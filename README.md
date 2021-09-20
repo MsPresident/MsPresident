@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MsPresident
+- 👋 Hi, I’m Shahrzad Pakgohar
 - 👀 I’m interested in ML, data analysis and Blockchain
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ML projects in finance and economics
