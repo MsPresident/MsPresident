@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MsPresident
 - 👀 I’m interested in ML, data analysis and Blockchain
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ML projects in finance and economics
 - 📫 How to reach me: @paakgohar on Twitter
 
 <!---
